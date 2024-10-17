@@ -1,0 +1,17 @@
+[0924/151635.742:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acceso denegado. (0x5)
+[0924/151635.742:ERROR:cache_util.cc(139)] Unable to move cache folder C:/ProgramData/Flexsim/FlexSim23.2//cef\GPUCache to C:/ProgramData/Flexsim/FlexSim23.2//cef\old_GPUCache_000
+[0924/151635.742:ERROR:disk_cache.cc(184)] Unable to create cache
+[0924/151635.742:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0924/151636.694:ERROR:gl_utils.cc(316)] [.RendererMainThread-00000213DF3E9EC0] GL_INVALID_OPERATION: Framebuffer is incomplete.
+[0924/151636.695:ERROR:gl_utils.cc(316)] [.RendererMainThread-00000213DF3E9EC0] GL_INVALID_OPERATION: Framebuffer is incomplete.
+[0924/151636.726:ERROR:gl_utils.cc(316)] [.RendererMainThread-00000213DF3E9EC0] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete
+[0924/151636.751:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0924/151639.666:WARNING:value_store_frontend.cc(43)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0924/162559.983:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acceso denegado. (0x5)
+[0924/162559.986:ERROR:cache_util.cc(139)] Unable to move cache folder C:/ProgramData/Flexsim/FlexSim23.2//cef\GPUCache to C:/ProgramData/Flexsim/FlexSim23.2//cef\old_GPUCache_000
+[0924/162559.986:ERROR:disk_cache.cc(184)] Unable to create cache
+[0924/162559.986:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0924/162600.782:INFO:CONSOLE(58)] "Uncaught TypeError: Cannot read property 'length' of undefined", source: file:///C:/ProgramData/Flexsim/FlexSim23.2/flexsimweb/bard3.js (58)
+[0924/162717.562:WARNING:value_store_frontend.cc(43)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0926/140255.342:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0926/140255.396:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
